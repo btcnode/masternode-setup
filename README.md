@@ -42,7 +42,7 @@ VPS remote wallet installation
 To install the remote wallet first you will log into your VPS using the SSH client. After logging in, type the following commands into your VPS terminal.
 
 1. Download the MN installation script
-2. https://github.com/btcnode/masternode-setup.git
+2. git clone https://github.com/btcnode/masternode-setup.git
 
 2. Run the MN installation script
 
